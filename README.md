@@ -11,7 +11,11 @@ This is the repo for **Udacity's US Bikeshare Data Project**.
 The code runs with Python 3 and is designed to explore the Bike sharing data of three US cities: Washington, New York City and Chicago.
 
 ### Files used
-Include the files used
+- README.md
+- bikeshare.py
+- chicago.csv
+- new_york_city.csv
+- washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
