@@ -8,7 +8,7 @@ The README file was created in **September 2020** when the project was added to 
 
 ### Description
 This is the repo for **Udacity's US Bikeshare Data Project**.
-The code runs with Python 3 and is designed to explore the Bike sharing data of three US cities: Washington, New York City and Chicago.
+The script runs with Python 3 and is designed to explore the Bike sharing data of three US cities: Washington, New York City and Chicago.
 
 ### Files used
 - README.md
