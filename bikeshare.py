@@ -69,7 +69,7 @@ def load_data(city, month, day):
         ## (str) day - name of the day of week to filter by, or "all" to apply no day filter
     ## Returns:
         ## df - Pandas DataFrame containing city data filtered by month and day
-        
+
     df = pd.read_csv(city)
 
     df['Start Time'] = pd.to_datetime(df['Start Time'])
@@ -85,6 +85,8 @@ def load_data(city, month, day):
         df = df.loc[df['day_of_week'] == day.title()]
 
     return df
+
+## Display statistics on most frequent times of travel using Panda
 
 def time_stats(df):
     """Displays statistics on the most frequent times of travel.
