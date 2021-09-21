@@ -20,3 +20,6 @@ The script runs with Python 3 and is designed to explore the Bike sharing data o
 ### Credits
 Thank you to all Udacity's instructors and to the Udacity community for guidance.
 The Python guidance documentation was also a huge help in building this project.
+
+#### Footnote
+If you are interested in learning to build this script please go to the [Udacity nanodegree course page](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104).
