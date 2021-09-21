@@ -18,4 +18,5 @@ The code runs with Python 3 and is designed to explore the Bike sharing data of 
 - washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Thank you to all Udacity's instructors and to the Udacity community for guidance.
+The Python guidance documentation was also a huge help in building this project.
